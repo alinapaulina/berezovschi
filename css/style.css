@@ -1,0 +1,16 @@
+p { text-align:center }
+
+ul {
+    display:table-row;
+}
+ul li
+{
+    display: table-cell;
+    list-style-type: none;
+    margin: 10px;
+    vertical-align: middle;
+}
+
+li {
+    padding-right: 10px;
+}
